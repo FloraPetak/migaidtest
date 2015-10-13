@@ -37,7 +37,7 @@ Vorübergehender zusätzlicher Lagerraum:
     Abda, 9151, Duna utca 28.
     Spendenannahme nur an Wochentagen von 10.00 bis 12.00 (am Wochenende oder Feiertagen nicht)
 
-{% include alert warning='Verfolgt auch unsere<a href="https://www.facebook.com/migrationaidhungary"> Facebookseite!</a> '%}
+{% include alert warning='Verfolgt auch unserer<a href="https://www.facebook.com/migrationaidhungary"> Facebookseite!</a> '%}
 
 # Was ist Migration Aid? 
 
@@ -68,7 +68,7 @@ Da unsere Lagerkapazität ziemlich begrenzt ist, können wir ungebrauchte Spende
 
 ### Persönlich spenden
 
-Sie können ihre Spenden persönlich in der Verseny Straße abgeben (genaue Adresse siehe unten). In den Transitzonen haben wir nur kleinere Lagerräume. Kommen Sie hierhin bitte nur mit den auf der Liste angegebenen Sachen. Die aktuelle Liste finden Sie jeden Tag auf unsere [Facebook-Seite](https://www.facebook.com/migrationaidhungary).
+Sie können ihre Spenden persönlich in der Verseny Straße abgeben (genaue Adresse siehe unten). In den Transitzonen haben wir nur kleinere Lagerräume. Kommen Sie hierhin bitte nur mit den auf der Liste angegebenen Sachen. Die aktuelle Liste finden Sie jeden Tag auf unserer [Facebook-Seite](https://www.facebook.com/migrationaidhungary).
 
 **Zur Zeit sammeln wir keine Kleidungsstücke.**
 
@@ -93,7 +93,6 @@ Falls Sie materielle Güter sammeln, überlegen Sie sich bitte, ob diese vom Aus
 
 ### **Der zentrale Lagerraum: Verseny Straße 10.**
 
-Unser neuer Abstellraum wird ab dem 3. September eröffnet. 
 Adresse und Öffnungszeiten:
 
       Verseny utca 10.
@@ -105,7 +104,7 @@ Wenn Sie eine größere Spende geben möchten, kontaktieren Sie uns bitte unter 
 
 
 # **Freiwillige**
-Wir brauchen Freiwillige, die zu den Grenzen kommen können (zur Zeit z.B. Zákány und Hegyeshalom), vorzugsweise für einen Zeitraum von 2-3 Tage, um Spenden verteilen zu helfen. Nehmen Sie bitte Kontakt mit unserem Koordinator über operation@migrationaid.net auf, um sich anzumelden. Wenn Sie kein Auto haben, können wir evtl. helfen, um zu der Grenze und wieder zurück zu fahren, mit den Autos die auch die Sachspenden transportieren. Auch können wir für unsere Freiwillige Unterkunft anbieten. 
+Wir brauchen Freiwillige, die zu den Grenzen kommen können (zur Zeit z.B. Zákány und Hegyeshalom), vorzugsweise für einen Zeitraum von 2-3 Tage, um Spenden verteilen zu helfen. Nehmen Sie bitte Kontakt mit unserem Koordinator über operation@migrationaid.net auf, um sich anzumelden. Wenn Sie kein Auto haben, können wir evtl. helfen, um zu der Grenze und wieder zurück zu gelangen, mit den Autos die auch die Sachspenden transportieren. Auch können wir für unsere Freiwillige Unterkunft anbieten. 
 Wir bitten alle, NICHT auf eigene Faust zu der Grenze zu fahren, da die Koordinierung und Verwaltung der Ressourcen (Personal und Materialien gleichfalls) essenziell ist. Nehmen Sie in jedem Fall Kontakt zu unserem Koordinator auf!
 
 Wenn Sie nur in Budapest helfen können, brauchen wir Hilfe im Spendenzentrum in der Verseny Straße, damit wir die Spenden sortieren und Pakete zusammenstellen können. Wenn Sie helfen können, kommen Sie an unseren Lagerräumen vorbei. Sie Sind jeden Tag willkommen! Achten Sie bitte an  die Öffnungszeiten!
